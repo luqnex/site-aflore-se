@@ -1,0 +1,95 @@
+@media only screen and ( min-width: 768px ) and ( max-width: 959px ) {
+    aside .content-aside-sobre .text .text-historia {
+        margin-right: 80px;
+    }
+
+    aside .content-aside-sobre .imagem {
+        width: 100vw;
+        height: 30vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and ( min-width: 426px ) and ( max-width: 767px ) {
+    .content #content-sobre .content-top-sobre h1{
+        font-size: 1.8rem;
+    }
+
+    .content #content-sobre .content-top-sobre hr{
+        width: 60px;
+    }
+
+    .content #content-sobre .content-top-sobre h2{
+        font-size: .9rem;
+    }
+
+    aside .content-aside-sobre .text .text-historia h3 {
+        font-size: 1rem;
+    }
+
+    aside .content-aside-sobre .text .text-historia p {
+        font-size: .8rem;
+        width: 40vw
+    }
+
+    aside .content-aside-sobre .text .text-valores h3 {
+        font-size: 1rem;
+    }
+
+    aside .content-aside-sobre .text .text-valores p {
+        font-size: .8rem;
+    }
+    
+    aside .content-aside-sobre .imagem {
+        width: 100vw;
+        height: 30vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and ( max-width: 425px ) {
+    .content #bg-sobre {
+        height: 50vh;
+    }
+    
+    .content #content-sobre .content-top-sobre h1{
+        font-size: 1.5rem;
+    }
+
+    .content #content-sobre .content-top-sobre hr{
+        width: 60px;
+    }
+
+    .content #content-sobre .content-top-sobre h2{
+        font-size: .9rem;
+    }
+
+    aside .content-aside-sobre .text .text-historia {
+        margin-right: 30px;
+    }
+
+    aside .content-aside-sobre .text .text-historia h3 {
+        font-size: 1rem;
+    }
+
+    aside .content-aside-sobre .text .text-historia p {
+        font-size: .8rem;
+    }
+
+    aside .content-aside-sobre .text .text-valores h3 {
+        font-size: 1rem;
+    }
+
+    aside .content-aside-sobre .text .text-valores p {
+        font-size: .8rem;
+    }
+    
+    aside .content-aside-sobre .imagem {
+        width: 100vw;
+        height: 30vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

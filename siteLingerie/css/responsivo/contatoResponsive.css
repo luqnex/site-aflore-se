@@ -1,0 +1,152 @@
+@media only screen and ( min-width: 768px ) and ( max-width: 959px ) {
+    #aside-contato .container-aside {
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #aside-contato .container-aside h4 {
+        font-size: 1.3rem;
+    }
+
+    #aside-contato .container-aside hr {
+        background-color: #484B4D;
+    }
+
+    #aside-contato .container-aside .form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #aside-contato .container-aside .form form {
+        width: 50vw;
+    }
+
+    
+    #aside-contato .container-aside .form form input{
+        width: 40vw;
+    }
+    
+    #aside-contato .container-aside .form form textarea{
+       width: 40vw;
+    }
+    
+    #aside-contato .container-aside .contato-social {
+       width: 150px;
+    }
+}
+
+@media only screen and ( min-width: 426px ) and ( max-width: 767px ) {
+    main #content-main-contato .content-top-contato h1 {
+        font-size: 1.8rem;
+    }
+
+    main #content-main-contato .content-top-contato hr {
+        width: 60px;
+    }
+    
+    main #content-main-contato .content-top-contato h2 {
+        font-size: 1rem;
+    }
+
+    #aside-contato .container-aside h4 {
+        font-size: 1.3rem;
+    }
+    
+    #aside-contato .container-aside .formulario-contato {
+        flex-direction: column-reverse;
+        align-items: start;
+    }
+
+    #aside-contato .container-aside .form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #aside-contato .container-aside .form form {
+        width: 50vw;
+    }
+
+    
+    #aside-contato .container-aside .form form input{
+        width: 40vw;
+    }
+    
+    #aside-contato .container-aside .form form textarea{
+       max-width: 40vw;
+    }
+    
+    #aside-contato .container-aside .contato-social {
+       width: 150px;
+       padding: 0;
+       margin-bottom: 50px;
+    }
+}
+
+@media only screen and ( max-width: 425px ) {
+    #bg-contato { 
+        height: 50vh;
+    }  
+
+    #bg-contato #content-main-contato {
+        height: 50vh;
+    }
+
+    main #content-main-contato .content-top-contato h1 {
+        font-size: 1.5rem;
+    }
+
+    main #content-main-contato .content-top-contato hr {
+        width: 60px;
+    }
+    
+    main #content-main-contato .content-top-contato h2 {
+        font-size: .9rem;
+    }
+
+    #aside-contato .container-aside {
+        width: 80vw;
+        
+    }
+
+    #aside-contato .container-aside h4 {
+        font-size: 1rem;
+        text-align: center;
+    }
+    
+    #aside-contato .container-aside .formulario-contato {
+        flex-direction: column-reverse;
+        width: 80vw;
+        justify-content: start;
+    }
+
+    #aside-contato .container-aside .form {
+        width: 80vw;
+        display: flex;
+        justify-content: start;
+    }
+
+    #aside-contato .container-aside .form form {
+        width: 80vw;
+    }
+
+    
+    #aside-contato .container-aside .form form input{
+        width: 60vw;
+    }
+    
+    #aside-contato .container-aside .form form textarea{
+       max-width: 60vw;
+    }
+    
+    #aside-contato .container-aside .contato-social {
+       width: 150px;
+       padding: 0;
+       margin-bottom: 50px;
+    }
+
+    #aside-contato .container-aside .contato-social .logo-social-media h5 {
+        margin-top: 20px;
+    }
+}

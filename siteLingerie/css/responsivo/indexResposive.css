@@ -1,0 +1,436 @@
+@media only screen and ( min-width: 768px ) and ( max-width: 959px ) {
+    .content {
+        overflow-y: hidden;
+    }
+
+    .logo-link-whats img {
+        width: 30px;
+    }
+
+    header .content-header .content-logo img {
+        width: 200px;
+    }
+
+    header nav ul li a {
+        font-size: .8rem;
+    }
+
+    main #content-main .content-top h1 {
+        font-size: 1.8rem;
+    }
+
+    main #content-main .content-top h2 {
+        font-size: .9rem;
+    }
+
+    main #content-main .content-top hr {
+        width: 40px;
+    }
+
+    main #content-main .content-top button {
+        width: 100px;
+        height: 35px;
+        font-size: .8rem;
+    }
+
+    aside .produtos .text-produto h2 {
+        font-size: 1rem;
+    }
+
+    aside .produtos .text-produto hr {
+        width: 30px;
+    }
+
+    aside .produtos .imagens-produtos .fotos {
+        width: 180px;
+        height: 400px;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img1 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img1.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img2 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img2.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img3 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img3.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img4 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img4.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img5 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img5.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img6 {
+        width: 180px;
+        height: 400px;
+        background-image: url(/imagens/Home/img6.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos button {
+        font-size: .7rem;
+        width: 90px;
+    }
+
+    footer .content-footer .inspiracao h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .inspiracao p {
+        font-size: .5rem;
+    }
+
+    footer .content-footer .contato h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .contato p {
+        font-size: .5rem;
+    }
+
+    footer .content-footer .social h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .social img {
+        width: 15px;
+    }
+}
+
+@media only screen and ( min-width: 426px ) and ( max-width: 767px ) {
+    .content {
+        overflow-y: hidden;
+    }
+
+    .logo-link-whats img {
+        width: 30px;
+        margin: 0px 15px 10px 0;
+    }
+
+    header {
+        height: 20vh;
+        overflow: hidden;
+    }
+
+    header .content-header {
+        
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    header .content-header .content-logo a div {
+        width: 190px;
+        height: 50px;
+        background-position: center center;
+    }
+
+    header nav {
+        margin-top: 10px;
+    }
+
+    header nav ul li a {
+        font-size: .8rem;
+    }
+
+    main #content-main .content-top h1 {
+        font-size: 1.8rem;
+    }
+
+    main #content-main .content-top h2 {
+        font-size: .9rem;
+        text-align: center;
+    }
+
+    main #content-main .content-top hr {
+        width: 40px;
+    }
+
+    main #content-main .content-top button {
+        width: 100px;
+        height: 35px;
+        font-size: .8rem;
+    }
+
+    aside .produtos .text-produto h2 {
+        font-size: 1rem;
+    }
+
+    aside .produtos .text-produto hr {
+        width: 30px;
+    }
+
+    aside .produtos .imagens-produtos .fotos {
+        width: 220px;
+        height: 400px;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img1 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img1.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img2 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img2.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img3 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img3.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img4 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img4.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img5 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img5.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img6 {
+        width: 220px;
+        height: 300px;
+        background-image: url(/imagens/Home/img6.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos button {
+        font-size: .7rem;
+        width: 90px;
+    }
+
+    footer .content-footer .contato {
+        margin-left: 80px;
+    }
+
+    footer .content-footer .inspiracao {
+        display: none;
+    }
+
+    footer .content-footer .inspiracao h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .inspiracao p {
+        font-size: .5rem;
+    }
+
+    footer .content-footer .contato h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .contato p {
+        font-size: .5rem;
+    }
+
+    footer .content-footer .social h3 {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .social img {
+        width: 15px;
+    }
+}
+
+@media only screen and ( max-width: 425px ) {
+    .logo-link-whats {
+        height: 90vh;
+    }
+
+    .logo-link-whats img {
+        width: 40px;
+    }
+
+    header {
+        height: 15vh;
+        overflow: hidden;
+        justify-content: center;
+    }
+
+    header .content-header {
+        width: 100vw;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow: hidden;
+    }
+    
+    header .content-header .content-logo a div {
+        width: 150px;
+        height: 50px;
+        background-position: center center;
+    }
+
+    header nav {
+        margin-top: 10px;
+    }
+
+    header nav ul {
+        width: 80vw;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    header nav ul li a {
+        font-size: .7rem;
+        margin: 0;
+    }
+
+    #bg-index {
+        height: 50vh;
+    }
+
+    main #content-main {
+        height: 50vh;
+    }
+
+    main .content-black {
+        height: 50vh;
+    }
+
+    main #content-main .content-top h1 {
+        font-size: 1.8rem;
+    }
+
+    main #content-main .content-top h2 {
+        font-size: .9rem;
+        text-align: center;
+    }
+
+    main #content-main .content-top hr {
+        width: 40px;
+    }
+
+    main #content-main .content-top button {
+        width: 100px;
+        height: 35px;
+        font-size: .8rem;
+    }
+
+    aside .produtos {
+        width: 70vw;
+    }
+
+    aside .produtos .text-produto h2 {
+        font-size: .9rem;
+    }
+
+    aside .produtos .text-produto hr {
+        width: 30px;
+    }
+
+    aside .produtos .imagens-produtos {
+        width: 70vw;
+    }
+
+    aside .produtos .imagens-produtos .fotos {
+        width: 230px;
+        height: 450px;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img1 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img1.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img2 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img2.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img3 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img3.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img4 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img4.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img5 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img5.jpg);
+        background-size: cover;
+    }
+
+    aside .produtos .imagens-produtos .fotos .img6 {
+        width: 230px;
+        height: 350px;
+        background-image: url(/imagens/Home/img6.jpg);
+        background-size: cover;
+    }
+
+    footer {
+        height: 200px;
+    }
+
+    footer .content-footer {
+        width: 90vw;
+    }
+
+    footer .content-footer .contato {
+        margin-left: 50px;
+    }
+
+    footer .content-footer .inspiracao {
+        display: none;
+    }
+
+    footer .content-footer .contato h3 {
+        font-size: 1rem;
+    }
+
+    footer .content-footer .contato p {
+        font-size: .8rem;
+    }
+
+    footer .content-footer .social h3 {
+        font-size: 1rem;
+    }
+
+    footer .content-footer .social img {
+        width: 20px;
+    }
+}

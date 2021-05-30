@@ -250,7 +250,7 @@ aside .produtos .imagens-produtos .fotos {
 aside .produtos .imagens-produtos .fotos .img1 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img1.jpg);
+    background-image: url('./imagens/Home/img1.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -259,7 +259,7 @@ aside .produtos .imagens-produtos .fotos .img1 {
 aside .produtos .imagens-produtos .fotos .img2 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img2.jpg);
+    background-image: url('./imagens/Home/img2.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -268,7 +268,7 @@ aside .produtos .imagens-produtos .fotos .img2 {
 aside .produtos .imagens-produtos .fotos .img3 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img3.jpg);
+    background-image: url('./imagens/Home/img3.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -277,7 +277,7 @@ aside .produtos .imagens-produtos .fotos .img3 {
 aside .produtos .imagens-produtos .fotos .img4 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img4.jpg);
+    background-image: url('./imagens/Home/img4.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -286,7 +286,7 @@ aside .produtos .imagens-produtos .fotos .img4 {
 aside .produtos .imagens-produtos .fotos .img5 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img5.jpg);
+    background-image: url('./imagens/Home/img5.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -295,7 +295,7 @@ aside .produtos .imagens-produtos .fotos .img5 {
 aside .produtos .imagens-produtos .fotos .img6 {
     width: 320px;
     height: 500px;
-    background-image: url(./imagens/Home/img6.jpg);
+    background-image: url('./imagens/Home/img6.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
